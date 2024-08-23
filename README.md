@@ -17,6 +17,9 @@ Atualmente em processo de criação do meu portifólio para carreira de cientist
 </a>&nbsp;
 &nbsp;<a href="https://medium.com/@josevitoross">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/josevitoross">
+  <img width='80' src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png">
 </a>&nbsp;
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
