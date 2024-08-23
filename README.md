@@ -1,16 +1,25 @@
-### Hi there 👋
+### José Vitor
+Estudioso na área de Data Science.
+Graduado em Engenharia Elétrica e pós-graduado em Data Science.
+Atualmente em processo de criação do meu portifólio para carreira de cientista de dados.
 
-<!--
-**JoseVitor-OSS/JoseVitor-OSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+</div> 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também me encontra em:
+&nbsp;<a href="https://br.linkedin.com/in/jvossantos">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://medium.com/@josevitoross">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>&nbsp;
+
+#### E pode aproveitar pra ver alguns conteúdos que eu criei:
+- <a href="https://github.com/JoseVitor-OSS/HousePrices">
+    Projeto Kaggle: prevendo o preço das casas (House Prices)
+  </a>
