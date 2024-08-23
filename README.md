@@ -1,4 +1,4 @@
-### José Vitor
+### Hi there, I'm José Vitor
 Estudioso na área de Data Science.
 Graduado em Engenharia Elétrica e pós-graduado em Data Science.
 Atualmente em processo de criação do meu portifólio para carreira de cientista de dados.
